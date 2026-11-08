@@ -14,4 +14,4 @@ Backend developer from Chisinau, Moldova. I work with TypeScript and NestJS, mos
 
 ## Contact
 
-vizitiuvitalie.dev@gmail.com | [LinkedIn](https://www.linkedin.com/in/vitalie-vizitiu-1440a7252/)
+vizitiuvitalie.dev@gmail.com | [LinkedIn](https://www.linkedin.com/in/vitalie-vizitiu/)
